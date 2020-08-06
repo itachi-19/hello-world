@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hello-world/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hello-world/static/js/main.a6fa3c48.chunk.js",
+    "main.js.map": "/hello-world/static/js/main.a6fa3c48.chunk.js.map",
+    "runtime-main.js": "/hello-world/static/js/runtime-main.693b020b.js",
+    "runtime-main.js.map": "/hello-world/static/js/runtime-main.693b020b.js.map",
+    "static/js/2.be7e122f.chunk.js": "/hello-world/static/js/2.be7e122f.chunk.js",
+    "static/js/2.be7e122f.chunk.js.map": "/hello-world/static/js/2.be7e122f.chunk.js.map",
+    "index.html": "/hello-world/index.html",
+    "precache-manifest.5f68699a4da7068e0b94be10e6424d96.js": "/hello-world/precache-manifest.5f68699a4da7068e0b94be10e6424d96.js",
+    "service-worker.js": "/hello-world/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hello-world/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.be7e122f.chunk.js.LICENSE.txt": "/hello-world/static/js/2.be7e122f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hello-world/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.693b020b.js",
+    "static/js/2.be7e122f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a6fa3c48.chunk.js"
+  ]
+}
